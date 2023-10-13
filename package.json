@@ -1,0 +1,30 @@
+{
+  "name": "chat-nodejs",
+  "version": "0.1.0",
+  "description": "A chat like Telegram but much better :)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianprocopio/chat-nodejs.git"
+  },
+  "keywords": [
+    "chat",
+    "telegram",
+    "node",
+    "server",
+    "javascript",
+    "api"
+  ],
+  "author": "Gianluca Procopio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gianprocopio/chat-nodejs/issues"
+  },
+  "homepage": "https://github.com/gianprocopio/chat-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
